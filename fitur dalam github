@@ -1,8 +1,8 @@
 fitur yang berada di github yaitu
-commit
-branch
-merge
+commit (memberikan deskripsi pada saat kita selesai merubah file)
+branch (percabangan dari progress kita)
+merge (menggabungkan dari 2 branch)
 pull
 push
 repo
-clone
+clone (menggandakan)
