@@ -1,8 +1,9 @@
 fitur yang berada di github yaitu
+
+pull (meminta file)
+push (mengirim file)
+repo (folder)
 commit (memberikan deskripsi pada saat kita selesai merubah file)
 branch (percabangan dari progress kita)
 merge (menggabungkan dari 2 branch)
-pull
-push
-repo
 clone (menggandakan)
